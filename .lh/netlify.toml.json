@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1746708946858,
@@ -16,6 +16,14 @@
                 {
                     "date": 1746709290843,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [build]\n-  command = \"hugo --gc --minify\"\n-  publish = \"public\"\n+  command = \"hugo --gc --minify\"  # GC でキャッシュ掃除 / minify で静的ファイル圧縮 :contentReference[oaicite:8]{index=8}\n+  publish = \"public\"              # Hugo の出力先フォルダ\n \n [build.environment]\n-  HUGO_VERSION = \"0.146.6\"\n+  HUGO_VERSION = \"0.124.1\"        # バージョン固定で将来の breaking change を予防 :contentReference[oaicite:9]{index=9}\n"
+                },
+                {
+                    "date": 1746709821663,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,5 +2,5 @@\n   command = \"hugo --gc --minify\"  # GC でキャッシュ掃除 / minify で静的ファイル圧縮 :contentReference[oaicite:8]{index=8}\n   publish = \"public\"              # Hugo の出力先フォルダ\n \n [build.environment]\n-  HUGO_VERSION = \"0.124.1\"        # バージョン固定で将来の breaking change を予防 :contentReference[oaicite:9]{index=9}\n+  HUGO_VERSION = \"0.146.4\"        # バージョン固定で将来の breaking change を予防 :contentReference[oaicite:9]{index=9}\n"
+                },
+                {
+                    "date": 1746709829645,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,5 +2,5 @@\n   command = \"hugo --gc --minify\"  # GC でキャッシュ掃除 / minify で静的ファイル圧縮 :contentReference[oaicite:8]{index=8}\n   publish = \"public\"              # Hugo の出力先フォルダ\n \n [build.environment]\n-  HUGO_VERSION = \"0.146.4\"        # バージョン固定で将来の breaking change を予防 :contentReference[oaicite:9]{index=9}\n+  HUGO_VERSION = \"0.146.6\"        # バージョン固定で将来の breaking change を予防 :contentReference[oaicite:9]{index=9}\n"
                 }
             ],
             "date": 1746708946858,
