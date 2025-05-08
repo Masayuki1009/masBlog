@@ -1,0 +1,6 @@
+[build]
+  command = "hugo --gc --minify"  # GC でキャッシュ掃除 / minify で静的ファイル圧縮 :contentReference[oaicite:8]{index=8}
+  publish = "public"              # Hugo の出力先フォルダ
+
+[build.environment]
+  HUGO_VERSION = "0.124.1"        # バージョン固定で将来の breaking change を予防 :contentReference[oaicite:9]{index=9}

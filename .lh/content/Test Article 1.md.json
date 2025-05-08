@@ -1,0 +1,34 @@
+{
+    "sourceFile": "content/Test Article 1.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 4,
+            "patches": [
+                {
+                    "date": 1746624684041,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1746624715016,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,16 +1,1 @@\n- title: \"ブログはじめました\"\n- date: 2023-06-12T00:48:57+09:00\n- featured_image: \"/images/article/1_blogger_man.png\"\n- ---\n- \n- ## ブログ開設！\n- \n- というわけで、この度、ブログをはじめました。\n- \n- 技術発信や気づき、日々の備忘録からネタ記事やポエムなど\n- \n- 不定期でブログを書いていきます。\n- \n- よろしくどーぞ！\n- \n- {{< tweet user=\"kwn_tky\" id=\"1664277226999934980\" >}}\n\\ No newline at end of file\n+Test Article desu\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1746625204899,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,14 @@\n-Test Article desu\n\\ No newline at end of file\n+ title: \"ブログはじめました\"\n+ date: 2023-06-12T00:48:57+09:00\n+ featured_image: \"/images/article/1_blogger_man.png\"\n+ ---\n+ \n+ ## ブログ開設！\n+ \n+ というわけで、この度、ブログをはじめました。\n+ \n+ 技術発信や気づき、日々の備忘録からネタ記事やポエムなど\n+ \n+ 不定期でブログを書いていきます。\n+ \n+ よろしくどーぞ！\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1746625630679,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,14 +1,15 @@\n+ ---\n  title: \"ブログはじめました\"\n  date: 2023-06-12T00:48:57+09:00\n  featured_image: \"/images/article/1_blogger_man.png\"\n  ---\n- \n+\n  ## ブログ開設！\n- \n+\n  というわけで、この度、ブログをはじめました。\n- \n+\n  技術発信や気づき、日々の備忘録からネタ記事やポエムなど\n- \n+\n  不定期でブログを書いていきます。\n- \n+\n  よろしくどーぞ！\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1746625726977,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n- ---\n+---\n  title: \"ブログはじめました\"\n  date: 2023-06-12T00:48:57+09:00\n  featured_image: \"/images/article/1_blogger_man.png\"\n- ---\n+---\n \n  ## ブログ開設！\n \n  というわけで、この度、ブログをはじめました。\n"
+                }
+            ],
+            "date": 1746624684041,
+            "name": "Commit-0",
+            "content": " title: \"ブログはじめました\"\n date: 2023-06-12T00:48:57+09:00\n featured_image: \"/images/article/1_blogger_man.png\"\n ---\n \n ## ブログ開設！\n \n というわけで、この度、ブログをはじめました。\n \n 技術発信や気づき、日々の備忘録からネタ記事やポエムなど\n \n 不定期でブログを書いていきます。\n \n よろしくどーぞ！\n \n {{< tweet user=\"kwn_tky\" id=\"1664277226999934980\" >}}"
+        }
+    ]
+}

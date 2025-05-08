@@ -1,0 +1,22 @@
+{
+    "sourceFile": "content/article/Test Article 1.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1746625522547,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1746625602744,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,14 +2,14 @@\n  title: \"ブログはじめました\"\n  date: 2023-06-12T00:48:57+09:00\n  featured_image: \"/images/article/1_blogger_man.png\"\n  ---\n- \n+\n  ## ブログ開設！\n- \n+\n  というわけで、この度、ブログをはじめました。\n- \n+\n  技術発信や気づき、日々の備忘録からネタ記事やポエムなど\n- \n+\n  不定期でブログを書いていきます。\n- \n+\n  よろしくどーぞ！\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1746625522547,
+            "name": "Commit-0",
+            "content": " ---\n title: \"ブログはじめました\"\n date: 2023-06-12T00:48:57+09:00\n featured_image: \"/images/article/1_blogger_man.png\"\n ---\n \n ## ブログ開設！\n \n というわけで、この度、ブログをはじめました。\n \n 技術発信や気づき、日々の備忘録からネタ記事やポエムなど\n \n 不定期でブログを書いていきます。\n \n よろしくどーぞ！"
+        }
+    ]
+}

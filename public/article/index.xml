@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Articles on masBlog</title>
+    <link>http://localhost:1313/article/</link>
+    <description>Recent content in Articles on masBlog</description>
+    <generator>Hugo -- 0.146.6</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/article/test-article-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/article/test-article-1/</guid>
+      <description>&lt;h2 id=&#34;featured_image-imagesarticle1_blogger_manpng&#34;&gt;title: &amp;ldquo;ブログはじめました&amp;rdquo;
+date: 2023-06-12T00:48:57+09:00
+featured_image: &amp;ldquo;/images/article/1_blogger_man.png&amp;rdquo;&lt;/h2&gt;
+&lt;h2 id=&#34;ブログ開設&#34;&gt;ブログ開設！&lt;/h2&gt;
+&lt;p&gt;というわけで、この度、ブログをはじめました。&lt;/p&gt;
+&lt;p&gt;技術発信や気づき、日々の備忘録からネタ記事やポエムなど&lt;/p&gt;
+&lt;p&gt;不定期でブログを書いていきます。&lt;/p&gt;
+&lt;p&gt;よろしくどーぞ！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

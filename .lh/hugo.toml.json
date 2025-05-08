@@ -3,11 +3,35 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 6,
             "patches": [
                 {
                     "date": 1745583776285,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1746624581898,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n-baseURL = 'https://example.org/'\n+baseURL = 'http://localhost:1313/'\n languageCode = 'en-us'\n title = 'masBlog'\n theme = \"PaperMod\"\n"
+                },
+                {
+                    "date": 1746625294505,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,7 @@\n baseURL = 'http://localhost:1313/'\n-languageCode = 'en-us'\n+ languageCode = 'ja'\n+ languageName = 'Japanese'\n+ defaultContentLanguage = 'ja'\n+ hasCJKLanguage = true\n title = 'masBlog'\n theme = \"PaperMod\"\n"
+                },
+                {
+                    "date": 1746625317934,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,6 +2,6 @@\n  languageCode = 'ja'\n  languageName = 'Japanese'\n  defaultContentLanguage = 'ja'\n  hasCJKLanguage = true\n-title = 'masBlog'\n+title = 'masBlog1'\n theme = \"PaperMod\"\n"
+                },
+                {
+                    "date": 1746625341885,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,4 @@\n baseURL = 'http://localhost:1313/'\n- languageCode = 'ja'\n- languageName = 'Japanese'\n- defaultContentLanguage = 'ja'\n- hasCJKLanguage = true\n-title = 'masBlog1'\n+languageCode = 'en-us'\n+title = 'masBlog'\n theme = \"PaperMod\"\n"
+                },
+                {
+                    "date": 1746625353119,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n-baseURL = 'http://localhost:1313/'\n+baseURL = 'http://localhost:1313'\n languageCode = 'en-us'\n title = 'masBlog'\n-theme = \"PaperMod\"\n+theme = \"PaperMod\"\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1746625441401,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n-baseURL = 'http://localhost:1313'\n+baseURL = 'http://localhost:1313/'\n languageCode = 'en-us'\n title = 'masBlog'\n theme = \"PaperMod\"\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1745583776285,
