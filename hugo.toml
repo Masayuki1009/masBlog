@@ -1,4 +1,10 @@
 baseURL = 'https://masblog.netlify.app/'
+# baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'masBlog'
 theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
